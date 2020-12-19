@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
+
 **TehcJS/TehcJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # ignore that stuff up there ^
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+# hi yes am tehc
+![how good is tehc](https://github-readme-stats.vercel.app/api?username=TehcJS&count_private=true&theme=DARK)
