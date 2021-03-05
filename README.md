@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 
 # hi yes am tehc
 ![how good is tehc](https://github-readme-stats.vercel.app/api?username=TehcJS&count_private=true&theme=DARK)
+<br>
 clearly tehc is good and best in-game don't you see?
+<br>
 yes yes i know i'm so good. you don't have to rub it in my face.
