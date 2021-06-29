@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with yes
 - 💬 Ask me about no
 - 📫 How to reach me: no
-- 😄 Pronouns: 
+- 😄 Pronouns: he
 - ⚡ Fun fact: yes
 
 # hi yes am tehc
